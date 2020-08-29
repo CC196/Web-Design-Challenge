@@ -1,0 +1,24 @@
+/* nav bar */
+.navbar-custom{
+    background-color: darkseagreen;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text{
+    color: rgb(10, 68, 107);
+    font-weight: bold;
+}
+
+.nav-link{
+    color: rgb(10, 68, 107);
+}
+
+body{
+
+}
+
+h1{
+    color: mediumslateblue;
+    font-weight: bold;
+}
+
