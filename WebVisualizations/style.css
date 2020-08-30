@@ -1,24 +1,48 @@
 /* nav bar */
 .navbar-custom{
-    background-color: darkseagreen;
+    background-color:#BAC7A7;
 }
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-text{
-    color: rgb(10, 68, 107);
+    color: #698474;
     font-weight: bold;
+}
+.navbar-custom .navbar-toggler{
+    border-color: #e5e4cc;
+    color: #698474;
 }
 
 .nav-link{
-    color: rgb(10, 68, 107);
+    color: #698474;
 }
 
 body{
+    background-color: #e5e4cc;
 
 }
 
-h1{
-    color: mediumslateblue;
+h1, h2, h3{
+    color: #889E81;
     font-weight: bold;
 }
+
+.row{
+    padding:50px
+}
+
+.side-c{
+    background-color: #f0efe0;
+}
+.main-c{
+    background-color: #f0efe0;
+    height: auto;
+}
+
+
+.row-height {
+    text-align: center;
+    padding-top: 25px;
+}
+
 
